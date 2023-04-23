@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <products>
+  <product>
+    <code>001</code>
+    <name>Product A</name>
+    <description>This is Product A</description>
+    <price>10.00</price>
+  </product>
+  <product>
+    <code>002</code>
+    <name>Product B</name>
+    <description>This is Product B</description>
+    <price>20.00</price>
+  </product>
+  <product>
+    <code>003</code>
+    <name>Product C</name>
+    <description>This is Product C</description>
+    <price>30.00</price>
+  </product>
+  <product>
+    <code>004</code>
+    <name>Product D</name>
+    <description>This is Product D</description>
+    <price>40.00</price>
+  </product>
+</products>
